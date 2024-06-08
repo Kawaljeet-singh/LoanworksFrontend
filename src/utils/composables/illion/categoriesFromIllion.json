@@ -1,0 +1,134 @@
+{
+  "applicationId": 3283,
+  "borrowerCategorisedFinancials": [
+    {
+      "borrowerId": 0,
+      "income": [
+        {
+          "categoryNameExternal": "Government Benefits",
+          "value": 42.02,
+          "specifiedValue": 0,
+          "categoryCode": "GOVBEN",
+          "categoryName": "Government Benefits",
+          "categoryCodeExternal": "DM002"
+        },
+        {
+          "categoryNameExternal": "Other Income",
+          "value": 0,
+          "specifiedValue": 0,
+          "categoryCode": "OTHI",
+          "categoryName": "Other Income",
+          "categoryCodeExternal": "DM016"
+        },
+        {
+          "categoryNameExternal": "Salary",
+          "value": 7000,
+          "specifiedValue": 0,
+          "categoryCode": "SLRY",
+          "categoryName": "Salary:BENDTECH Group P",
+          "categoryCodeExternal": "DM127"
+        },
+        {
+          "categoryNameExternal": "Salary",
+          "value": 9313.73,
+          "specifiedValue": 0,
+          "categoryCode": "SLRY",
+          "categoryName": "Salary:SALARY WOOLWORTHS LTD",
+          "categoryCodeExternal": "DM127"
+        },
+        {
+          "categoryNameExternal": "Salary",
+          "value": 9041.71,
+          "specifiedValue": 0,
+          "additionalCategoryInfo": {
+            "accountHolder": "Mark Ockwell and Michelle Burnside",
+            "accountHolderType": "joint"
+          },
+          "categoryCode": "SLRY",
+          "categoryName": "Salary:SALARY WOOLWORTHS LTD",
+          "categoryCodeExternal": "DM127"
+        },
+        {
+          "categoryNameExternal": "Salary",
+          "value": 6873.85,
+          "specifiedValue": 0,
+          "additionalCategoryInfo": {
+            "accountHolder": "Mark Ockwell and Michelle Burnside",
+            "accountHolderType": "joint"
+          },
+          "categoryCode": "SLRY",
+          "categoryName": "Salary:BENDTECH Group P",
+          "categoryCodeExternal": "DM127"
+        }
+      ],
+      "expenses": [
+        {
+          "ccLimit": 0,
+          "categoryNameExternal": "Groceries",
+          "value": 592.26,
+          "specifiedValue": 0,
+          "categoryCode": "GROC",
+          "categoryName": "Groceries",
+          "categoryCodeExternal": "DM023"
+        },
+        {
+          "ccLimit": 0,
+          "categoryNameExternal": "Insurance Payments",
+          "value": 638.5,
+          "specifiedValue": 0,
+          "categoryCode": "INSD",
+          "categoryName": "Insurance Payments",
+          "categoryCodeExternal": "DM024"
+        },
+        {
+          "ccLimit": 0,
+          "categoryNameExternal": "Education and Childcare",
+          "value": 737.75,
+          "specifiedValue": 0,
+          "categoryCode": "EducationChildCare",
+          "categoryName": "Education and Childcare",
+          "categoryCodeExternal": "DM040"
+        },
+        {
+          "ccLimit": 0,
+          "categoryNameExternal": "Health / Medical",
+          "value": 43.79,
+          "specifiedValue": 0,
+          "categoryCode": "MDCL",
+          "categoryName": "Health / Medical",
+          "categoryCodeExternal": "DM054"
+        }
+      ],
+      "liabilities": [
+        {
+          "ccLimit": 0,
+          "categoryNameExternal": "Credit Card",
+          "value": 12344,
+          "specifiedValue": 0,
+          "categoryCode": "CCPAY",
+          "categoryName": "Credit Card",
+          "categoryCodeExternal": "DM015"
+        },
+        {
+          "ccLimit": 0,
+          "categoryNameExternal": "Mortgage Loan",
+          "value": 900000,
+          "specifiedValue": 0,
+          "additionalCategoryInfo": {
+            "accountType": "home loan",
+            "accountHolder": "Mark Ockwell and Michelle Burnside",
+            "accountHolderType": "joint",
+            "accountName": "Home Loans",
+            "bsb": "345-678",
+            "accountNumber": "999888777",
+            "currentBalance": "900000",
+            "availableBalance": "0.00"
+          },
+          "categoryCode": "MORTPAY",
+          "categoryName": "Mortgage Loan",
+          "categoryCodeExternal": "DM041"
+        }
+      ]
+    }
+  ]
+}
